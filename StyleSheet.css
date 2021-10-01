@@ -1,0 +1,140 @@
+p 
+{
+text-align:justify; 
+}
+h1{
+	text-align:center;
+	color:hsl(120,60%,60%);
+	font-style:oblique;
+}
+body
+{
+	font-family:arial,helvetica,san-serif;
+	margin: 0,auto;
+	width:1280px;
+}
+figcaption
+{
+	color: rgb(221,234,62);
+	font-style:oblique;
+}
+h2{
+	color:rgb(13,97,115);
+}
+ul{
+list-style-type:dark circle;
+}
+a
+{
+	text-decoration:none;
+}
+a:visited
+{
+	color:green;
+}
+a:hover
+{
+	color:red;
+}
+.pYellow{
+	color:rgb(145,132,13);
+}
+#iRed{
+	color:red;
+}
+.Best-Red{
+	color:Red;
+}
+.pList-Orange
+{
+	color:rgb(255,201,147);
+	font-style:italic;
+}
+.president-gold
+{
+	color:rgb(183,183,0);
+	font-style:italic;
+}
+#block1
+{
+	background-color:lightgreen;
+	width: 1000px;
+	overflow:none;
+}
+#block2
+{
+	margin:30px;
+	padding:20px 10px 30px 40px;
+	background-color:lightblue;
+}
+#block3
+{
+	background-color:rgb(53,130,80);
+	width: 500px;
+	height: 180px;
+	overflow:scroll;
+}
+#block4
+{
+	background-color:rgb(148,26,157);
+	float: right;
+	width: 50;
+}
+#block5
+{
+	background-color:rgb(173,173,10);
+}
+#IndPic1
+{
+	float: left;
+	margin-right: 20px;
+}
+#IndPic2
+{
+	float: right;
+	margin-left: 20px;
+}
+#IndPic3
+{
+	float: left;
+	margin-right: 20px;
+}
+#IndPic4
+{
+	float: right;
+	margin-left: 20px;
+}
+#IndPic5
+{
+	float: left;
+	margin-right: 20px;
+}
+nav li
+{
+	display: inline;
+float: left;	
+}
+nav ul
+{
+	life-style-type:none;
+	padding:0;
+}
+nav a:link, nav a:visited
+{
+	background-color: brown;
+	color: white;
+	display: block;
+	width: 295px;
+	text-align: centre;
+	padding: 10px 0;
+}
+Header
+{
+	background-image:url("Resources/Background1.jpg");
+	height: 100px;
+	margin-bottom: 20px;
+}
+#bInd
+{
+	
+}	
